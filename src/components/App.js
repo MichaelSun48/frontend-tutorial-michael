@@ -94,7 +94,7 @@ class App extends Component {
 
   checkout() {
     // Generate an error
-    this.myCodeIsMorePerfect();
+    this.myCodeIsMorePerfect(); // random edit for suspect commit 
 
     const order = {
       email: this.email,
